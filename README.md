@@ -11,8 +11,7 @@ Looked at around 99,000 orders from Olist, a Brazilian e-commerce platform, to f
 
 - **Notebook:** [Google Colab Link](https://colab.research.google.com/drive/18Fs4J6lfgTIlrJDvjsay53tEY-DbZK6Z?usp=sharing)
 - **Dashboard:** 
-- **Presentation:** 
-- **Video Walkthrough (Optional):** 
+- **Presentation:** [Slide deck](https://docs.google.com/presentation/d/1VTgyQm3h6-ll_PxVNjLaunDLindBGRVu/edit?usp=drive_link&ouid=108888480646218539322&rtpof=true&sd=true)
 
 ---
 
